@@ -226,5 +226,13 @@ p{
     #contact{
         display: none;
     }
+    .split-parts{
+        margin: 0 1rem ;
+    }
+    .portfolio{
+        width: 21rem;
+        margin: 1.5rem 2rem;
+    }
+
 }
 
